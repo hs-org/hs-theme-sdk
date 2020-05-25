@@ -1,17 +1,18 @@
 {
   "name": "hs-theme-sdk",
   "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "Theme built-in development kit",
+  "main": "dist/index.js",
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "HappyShop Organization",
   "license": "ISC",
   "dependencies": {
     "typescript": "^3.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hs-org/hs-theme-sdk"
   }
 }

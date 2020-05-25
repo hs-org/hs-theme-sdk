@@ -5,7 +5,9 @@
       "removeComments": false,
       "preserveConstEnums": true,
       "sourceMap": true,
-      "lib": ["ES2015"]
+      "sourceRoot": "lib",
+      "lib": ["ES2015"],
+      "outDir": "dist"
     },
     "include": ["lib/**/*"],
     "exclude": ["node_modules", "**/*.spec.ts"]
